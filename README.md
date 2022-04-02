@@ -8,3 +8,4 @@ This Repository contains my solutions to April LeetCoding Challenge 2022 problem
 
 ## Solutions
 1. <a href="./344.Reverse-String.cpp">Reverse String</a>
+2. <a href="./680.Valid-Palindrome-II.cpp">Valid Palindrome II</a>
