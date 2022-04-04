@@ -10,3 +10,4 @@ This Repository contains my solutions to April LeetCoding Challenge 2022 problem
 1. <a href="./344.Reverse-String.cpp">Reverse String</a>
 2. <a href="./680.Valid-Palindrome-II.cpp">Valid Palindrome II</a>
 3. <a href="./31.Next-Permutation.cpp">Next Permutation</a>
+4. <a href="./1721.Swapping-Nodes-in-a-Linked-List.cpp">Swapping Nodes in a Linked List</a>
