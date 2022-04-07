@@ -13,3 +13,4 @@ This Repository contains my solutions to April LeetCoding Challenge 2022 problem
 4. <a href="./1721.Swapping-Nodes-in-a-Linked-List.cpp">Swapping Nodes in a Linked List</a>
 5. <a href="./11.Container-With-Most-Water.cpp">Container With Most Water</a>
 6. <a href="./923.3Sum-With-Multiplicity.cpp">3Sum With Multiplicity</a>
+7. <a href="./1046.Last-Stone-Weight.cpp">Last Stone Weight</a>
