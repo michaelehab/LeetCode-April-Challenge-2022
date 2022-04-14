@@ -20,3 +20,4 @@ This Repository contains my solutions to April LeetCoding Challenge 2022 problem
 11. <a href="./1260.Shift-2D-Grid.cpp">Shift 2D Grid</a>
 12. <a href="./289.Game-of-Life.cpp">Game of Life</a>
 13. <a href="./59.Spiral-Matrix-II.cpp">Spiral Matrix II</a>
+14. <a href="./700.Search-in-a-Binary-Search-Tree.cpp">Search in a Binary Search Tree</a>
