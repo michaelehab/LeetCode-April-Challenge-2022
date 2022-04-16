@@ -22,3 +22,4 @@ This Repository contains my solutions to April LeetCoding Challenge 2022 problem
 13. <a href="./59.Spiral-Matrix-II.cpp">Spiral Matrix II</a>
 14. <a href="./700.Search-in-a-Binary-Search-Tree.cpp">Search in a Binary Search Tree</a>
 15. <a href="./669.Trim-a-Binary-Search-Tree.cpp">Trim a Binary Search Tree</a>
+16. <a href="./538.Convert-BST-to-Greater-Tree.cpp">Convert BST to Greater Tree</a>
