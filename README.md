@@ -28,3 +28,4 @@ This Repository contains my solutions to April LeetCoding Challenge 2022 problem
 19. <a href="./99.Recover-Binary-Search-Tree.cpp">Recover Binary Search Tree</a>
 20. <a href="./173.Binary-Search-Tree-Iterator.cpp">Binary Search Tree Iterator</a>
 21. <a href="./705.Design-HashSet.cpp">Design HashSet</a>
+22. <a href="./706.Design-HashMap.cpp">Design HashMap</a>
