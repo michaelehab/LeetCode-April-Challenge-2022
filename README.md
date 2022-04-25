@@ -31,3 +31,4 @@ This Repository contains my solutions to April LeetCoding Challenge 2022 problem
 22. <a href="./706.Design-HashMap.cpp">Design HashMap</a>
 23. <a href="./535.Encode-and-Decode-TinyURL.cpp">Encode and Decode TinyURL</a>
 24. <a href="./1396.Design-Underground-System.cpp">Design Underground System</a>
+25. <a href="./284.Peeking-Iterator.cpp">Peeking Iterator</a>
