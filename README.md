@@ -32,3 +32,4 @@ This Repository contains my solutions to April LeetCoding Challenge 2022 problem
 23. <a href="./535.Encode-and-Decode-TinyURL.cpp">Encode and Decode TinyURL</a>
 24. <a href="./1396.Design-Underground-System.cpp">Design Underground System</a>
 25. <a href="./284.Peeking-Iterator.cpp">Peeking Iterator</a>
+26. <a href="./1584.Min-Cost-to-Connect-All-Points.cpp">Min Cost to Connect All Points</a>
