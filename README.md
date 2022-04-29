@@ -35,3 +35,4 @@ This Repository contains my solutions to April LeetCoding Challenge 2022 problem
 26. <a href="./1584.Min-Cost-to-Connect-All-Points.cpp">Min Cost to Connect All Points</a>
 27. <a href="./1202.Smallest-String-With-Swaps.cpp">Smallest String With Swaps</a>
 28. <a href="./1631.Path-With-Minimum-Effort.cpp">Path With Minimum Effort</a>
+29. <a href="./785.Is-Graph-Bipartite.cpp">Is Graph Bipartite?</a>
